@@ -1,2 +1,3 @@
 #!/bin/bash
-python3 $PYFILE
+touch 0-run.py
+echo 'print( "Best school" )' > 0-run.py
