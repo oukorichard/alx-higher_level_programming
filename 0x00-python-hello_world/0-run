@@ -1,4 +1,2 @@
 #!/bin/bash
-echo '#!/usr/bin/python3' >> 0-run.py
-echo 'print( "Best school" )' >> 0-run.py
-export 0-run.py $PYFILE
+echo '#!/usr/bin/python3 \n print( "Best school)' >> 0-run.pyg
