@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '#!/usr/bin/python3 \n print( "Best school)' >> 0-run.pyg
+echo '#!/usr/bin/python3 && print( "Best school)' >> 0-run.py
