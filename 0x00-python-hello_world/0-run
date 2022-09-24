@@ -1,4 +1,2 @@
 #!/bin/bash
-python3 $PYFILE
-echo 'print( "Best school" )' > 0-run.py
-0-run.py $PYFILE
+python3 $PYFILEgit
