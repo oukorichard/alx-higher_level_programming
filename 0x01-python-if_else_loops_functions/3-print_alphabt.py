@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-or ch in "abcdfghijklmnoprstuvwxyz":
+for ch in "abcdfghijklmnoprstuvwxyz":
     print(f"{ch}", end='')
