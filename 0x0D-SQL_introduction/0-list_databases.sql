@@ -1,3 +1,2 @@
-#!/bin/bash
-mysql -u root -p
+-- query to show databases
 SHOW DATABASES;
