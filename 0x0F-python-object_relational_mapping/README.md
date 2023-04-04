@@ -1,1 +1,1 @@
-This directory contains mysql-python projects
+python object mapping
