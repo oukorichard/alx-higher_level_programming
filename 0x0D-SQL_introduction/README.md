@@ -1,1 +1,1 @@
-This directory contains SQL projects 
+This directory contains SQL projects.  This is an update
