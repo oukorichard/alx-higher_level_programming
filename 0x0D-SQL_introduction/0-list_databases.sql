@@ -1,2 +1,2 @@
--- query to show databases
+-- query to show databases and tables
 SHOW DATABASES;
